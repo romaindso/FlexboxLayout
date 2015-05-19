@@ -7,6 +7,15 @@ body {
 
 .wrapper {
 	flex: 1; /* expand */
+    display: flex;
+}
+
+nav {
+    width: 25em;
+}
+
+section {
+    flex: 1;
 }
 
 /* Decoration */
